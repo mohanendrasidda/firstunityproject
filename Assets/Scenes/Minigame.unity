@@ -810,6 +810,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickUp (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1001131241685998627, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6294558586787190165, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1354,6 +1359,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PickUp (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1001131241685998627, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6294558586787190165, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
         type: 3}
@@ -2065,6 +2075,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickUp (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1001131241685998627, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6294558586787190165, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2725,6 +2740,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickUp (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1001131241685998627, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6294558586787190165, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2860,6 +2880,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PickUp (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1001131241685998627, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6294558586787190165, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
         type: 3}
@@ -3479,6 +3504,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickUp (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1001131241685998627, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6294558586787190165, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3546,6 +3576,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PickUp (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1001131241685998627, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6294558586787190165, guid: dfaeffdedc23c6942a7d925d8a8d34ad,
         type: 3}
