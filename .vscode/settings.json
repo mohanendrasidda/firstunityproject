@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Modual-1-Roll-a-ball.sln"
+    "dotnet.defaultSolution": "firstunityproject.sln"
 }
